@@ -1,4 +1,4 @@
-# Simulador de Entrevista Técnica – Dev Jr. Java
+# Simulador de Entrevista Técnica
 
 Este repositório documenta uma simulação de entrevista técnica conduzida para a vaga de **Desenvolvedor Júnior Java**.  
 O objetivo é demonstrar como estruturar perguntas, respostas e análises em um formato de entrevista técnica.
